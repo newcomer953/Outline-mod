@@ -1,0 +1,18 @@
+{
+	"name": "DRAW",
+	"description": "DRAW.",
+	"author": "hoppip",
+	"version": "1",
+	"blt_version" : 2.0,
+	"keybinds" : [
+	{
+		"keybind_id" : "draw",
+		"name" : "draw",
+		"description" : "Press this key to  draw",
+		"script_path" : "draw.lua",
+		"run_in_menu" : true,
+		"run_in_game" : true,
+		"localized" : false
+	}
+	]
+}
